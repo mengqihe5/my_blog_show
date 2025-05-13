@@ -8,7 +8,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: avatar.ico
 
     footer:
         since:
@@ -21,12 +21,11 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle:
+        subtitle: 欢迎来到我的博客
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
-
+            src: 
     article:
         headingAnchor: false
         math: false

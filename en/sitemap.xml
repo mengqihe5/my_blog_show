@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/en/categories/</loc>
+    <loc>https://github.com/mengqihe5/my_blog_show/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/categories/"
+                href="https://github.com/mengqihe5/my_blog_show/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/categories/"
+                href="https://github.com/mengqihe5/my_blog_show/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="https://github.com/mengqihe5/my_blog_show/en/categories/"
                 />
   </url><url>
-    <loc>https://example.com/en/</loc>
+    <loc>https://github.com/mengqihe5/my_blog_show/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/"
+                href="https://github.com/mengqihe5/my_blog_show/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/"
+                href="https://github.com/mengqihe5/my_blog_show/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://github.com/mengqihe5/my_blog_show/en/"
                 />
   </url><url>
-    <loc>https://example.com/en/tags/</loc>
+    <loc>https://github.com/mengqihe5/my_blog_show/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/tags/"
+                href="https://github.com/mengqihe5/my_blog_show/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/"
+                href="https://github.com/mengqihe5/my_blog_show/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://github.com/mengqihe5/my_blog_show/en/tags/"
                 />
   </url>
 </urlset>

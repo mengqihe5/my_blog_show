@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>موقع تجريبي</title>
-        <link>https://github.com/mengqihe5/my_blog_show/ar/</link>
-        <description>Recent content on موقع تجريبي</description>
+        <title>Ars on Example Site</title>
+        <link>https://mengqihe.netlify.app/ar/</link>
+        <description>Recent content in Ars on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ar</language>
-        <copyright>Example Person</copyright><atom:link href="https://github.com/mengqihe5/my_blog_show/ar/index.xml" rel="self" type="application/rss+xml" />
+        <language>en</language>
+        <copyright>hemengqi</copyright>
+        <lastBuildDate></lastBuildDate><atom:link href="https://mengqihe.netlify.app/ar/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

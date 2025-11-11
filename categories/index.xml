@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on 演示站点</title>
-        <link>https://github.com/mengqihe5/my_blog_show/categories/</link>
-        <description>Recent content in Categories on 演示站点</description>
+        <title>Categories on Example Site</title>
+        <link>https://mengqihe.netlify.app/categories/</link>
+        <description>Recent content in Categories on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>Example Person</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/mengqihe5/my_blog_show/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en</language>
+        <copyright>hemengqi</copyright>
+        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mengqihe.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Test</title>
-        <link>https://github.com/mengqihe5/my_blog_show/categories/test/</link>
+        <link>https://mengqihe.netlify.app/categories/test/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/mengqihe5/my_blog_show/categories/test/</guid>
-        <description>&lt;img src="https://github.com/mengqihe5/my_blog_show/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://mengqihe.netlify.app/categories/test/</guid>
+        <description>&lt;img src="https://mengqihe.netlify.app/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         <item>
         <title>测试</title>
-        <link>https://github.com/mengqihe5/my_blog_show/categories/%E6%B5%8B%E8%AF%95/</link>
+        <link>https://mengqihe.netlify.app/categories/%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/mengqihe5/my_blog_show/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>https://mengqihe.netlify.app/categories/%E6%B5%8B%E8%AF%95/</guid>
         <description></description>
         </item>
         

@@ -2,107 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mengqihe.netlify.app/</loc>
-    <lastmod>2025-05-11T20:56:21+08:00</lastmod>
+    <loc>https://mengqihe.netlify.app/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://mengqihe.netlify.app/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mengqihe.netlify.app/"
-                />
-  </url><url>
-    <loc>https://mengqihe.netlify.app/ar/</loc>
-    <lastmod>2025-05-11T20:56:21+08:00</lastmod>
-  </url><url>
-    <loc>https://mengqihe.netlify.app/zh-cn/</loc>
-    <lastmod>2025-05-11T20:55:56+08:00</lastmod>
-  </url><url>
-    <loc>https://mengqihe.netlify.app/post/</loc>
-    <lastmod>2025-05-11T20:26:22+08:00</lastmod>
-  </url><url>
-    <loc>https://mengqihe.netlify.app/p/test2/</loc>
-    <lastmod>2025-05-11T20:26:22+08:00</lastmod>
-  </url><url>
-    <loc>https://mengqihe.netlify.app/p/test/</loc>
-    <lastmod>2025-05-10T15:04:51+08:00</lastmod>
-  </url><url>
-    <loc>https://mengqihe.netlify.app/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://mengqihe.netlify.app/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://mengqihe.netlify.app/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mengqihe.netlify.app/en/categories/"
+                />
   </url><url>
-    <loc>https://mengqihe.netlify.app/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mengqihe.netlify.app/tags/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://mengqihe.netlify.app/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://mengqihe.netlify.app/zh-cn/tags/"
+                href="https://mengqihe.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://mengqihe.netlify.app/en/"
+                />
+  </url><url>
+    <loc>https://mengqihe.netlify.app/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
                 href="https://mengqihe.netlify.app/tags/"
                 />
-  </url><url>
-    <loc>https://mengqihe.netlify.app/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mengqihe.netlify.app/tags/%E4%B8%AD%E6%96%87/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mengqihe.netlify.app/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mengqihe.netlify.app/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mengqihe.netlify.app/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://mengqihe.netlify.app/zh-cn/page/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mengqihe.netlify.app/page/"
+                href="https://mengqihe.netlify.app/en/tags/"
                 />
-  </url><url>
-    <loc>https://mengqihe.netlify.app/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://mengqihe.netlify.app/zh-cn/%E5%85%B3%E4%BA%8E/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mengqihe.netlify.app/about/"
-                />
-  </url><url>
-    <loc>https://mengqihe.netlify.app/links/</loc>
-  </url><url>
-    <loc>https://mengqihe.netlify.app/search/</loc>
-  </url><url>
-    <loc>https://mengqihe.netlify.app/archives/</loc>
-  </url><url>
-    <loc>https://mengqihe.netlify.app/search/</loc>
   </url>
 </urlset>

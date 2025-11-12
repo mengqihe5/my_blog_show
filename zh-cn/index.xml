@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>hemegnqi</title>
+        <title>Zh-Cns on hemegnqi</title>
         <link>https://mengqihe.netlify.app/zh-cn/</link>
-        <description>Recent content on hemegnqi</description>
+        <description>Recent content in Zh-Cns on hemegnqi</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>hemengqi</copyright><atom:link href="https://mengqihe.netlify.app/zh-cn/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>关于</title>
-        <link>https://mengqihe.netlify.app/zh-cn/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://mengqihe.netlify.app/zh-cn/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
-        </item>
-        
+        <copyright>hemengqi</copyright>
+        <lastBuildDate></lastBuildDate><atom:link href="https://mengqihe.netlify.app/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
